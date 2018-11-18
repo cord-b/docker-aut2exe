@@ -5,7 +5,7 @@ A Docker image with Aut2exe.exe installed & on the PATH, allowing in-container A
 
 ## Example Usage
 
-Below is an example for how to use `docker-compose up` to compile your project.
+Below is an example for how to use `docker-compose up` to compile an AutoIt project.
 
 This example would generate `MyApp.exe` and `MyApp_debug.exe` into your project's `dist/` directory,
 
