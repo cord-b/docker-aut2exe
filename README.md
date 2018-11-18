@@ -41,5 +41,5 @@ MyProject/
 
 ```
 Aut2exe.exe /in MyApp.au3 /out dist\MyApp.exe /icon MyApp.ico
-Aut2exe.exe /in MyApp.au3 /out dist\MyApp_debug.exe /icon MyApp.ico
+Aut2exe.exe /in MyApp.au3 /out dist\MyApp_debug.exe /icon MyApp.ico /console
 ```
